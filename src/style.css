@@ -1,0 +1,180 @@
+/* layout */
+
+body {
+  margin:0px;
+  font-family: helvetica;
+}
+
+.myapp {
+
+  height: 755px;
+  width: 630px;
+  margin:auto;
+  background-color: #aaa;
+}
+.puzzle {
+  position: relative;
+  top: 20px;
+  margin-left: 15px;
+  width: 600px;
+  height: 600px;
+  background-color: #ccc;
+  display: inline-block;
+}
+
+
+.title{
+  position: relative;
+  top: 10px;
+  width: 600px;
+  margin-left: 15px;
+  height: 120px;
+  display: block;
+
+background-color:  #ccc;
+
+}
+
+.name{
+  width: 250px;
+  text-align: center;
+  height: 120px;
+  background-color:  #ccc;
+  display: inline-block;
+  font-size:100px;
+  line-height:120px;
+  font-weight: 900;
+}
+.score {
+  position: relative;
+  top :-55px;
+  width: 250px;
+  margin-left: 35px;
+  height: 50px;
+  display: inline-block;
+  font-size:25px;
+  line-height:50px;
+  font-weight: 900;
+
+}
+.score2 {
+  position: absolute;
+  top :40px;
+  left: 300px;
+  font-size:50px;
+  font-weight: 900;
+
+}
+.block{
+  width: 140px;
+  height: 140px;
+  margin: 5px;
+  background-color: #e6e6ff;
+  position: relative;
+  display: inline-block;
+  font-size:50px;
+  font-weight: 900;
+  line-height:140px;
+  color: #e6e6ff;
+  text-align: center;
+}
+.glyphicon {
+  font-size: 60px;
+  background: #ccc;
+  padding: 5px;
+  margin: 10px;
+}
+.icon{
+  position: relative;
+  display: inline-block;
+  top: -100px;
+  left: 400px;
+ 
+}
+.block2{
+  background-color: #ccccff;
+  color: #000;
+}
+.block4{
+  background-color: #9999ff;
+  color: #000;
+}
+.block8{
+  background-color: #6666ff;
+  color: #000;
+}
+.block16{
+  background-color: #4d4dff;
+  color: #000;
+}
+.block32{
+  background-color: #0000ff;
+  color: #ffffff;
+}
+
+.block64{
+  background-color: #0000b3;
+  color: #ffffff;
+}
+.block128{
+  background-color: #000066;
+  color: #ffffff;
+}
+.block256{
+  background-color: #00001a;
+  color: #ffffff;
+}
+.block512{
+  background-color: #1a001a;
+  color: #ffffff;
+}
+.block1024{
+  background-color: #660066;
+  color: #000;
+}
+.block2048{
+  background-color: #b300b3;
+  color: #000;
+}
+.block4096{
+  background-color: #ff00ff;
+  color: #000;
+}
+.block8192{
+  background-color: #ff4dff;
+  font-color: #000;
+}
+.block16384{
+  background-color: #ff99ff;
+  color: #000;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
