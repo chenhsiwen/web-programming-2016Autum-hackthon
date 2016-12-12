@@ -1,4 +1,4 @@
-# calculator-starter
+# hackthon
 In-class practice. Using webpack, babel, react
 
 ## install
